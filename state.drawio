@@ -23,9 +23,6 @@
         <mxCell id="382b91b5511bd0f7-6" value="Неавторизован" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2a3bc250acf0617d-8" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1070" width="1050" height="745" as="geometry" />
-        </mxCell>
         <mxCell id="2a3bc250acf0617d-9" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;" parent="1" source="382b91b5511bd0f7-1" target="382b91b5511bd0f7-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -153,19 +150,6 @@
             <mxPoint x="79" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bhM9FhKEBRI8hsWFsNNW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhM9FhKEBRI8hsWFsNNW-3" target="382b91b5511bd0f7-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="830" y="100" />
-              <mxPoint x="300" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bhM9FhKEBRI8hsWFsNNW-118" value="&lt;pre style=&quot;box-sizing: border-box; border: none; margin-top: var(--spacing-sm); color: rgb(31, 41, 55); background: var(--code-background-fill); font-family: var(--font-mono); font-size: var(--text-sm); text-align: left; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 2; hyphens: none; overflow: auto; position: relative; box-shadow: none; padding: var(--spacing-lg) var(--spacing-xl); text-shadow: none; border-radius: var(--radius-sm); margin-bottom: 0px !important;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; color: var(--body-text-color); background: none; font-family: var(--font-mono); font-size: var(--text-sm); word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 2; hyphens: none; margin-bottom: 0px !important;&quot; class=&quot;language-mermaid&quot;&gt;Выход из системы&lt;/code&gt;&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bhM9FhKEBRI8hsWFsNNW-31">
-          <mxGeometry x="-0.3474" y="3" relative="1" as="geometry">
-            <mxPoint y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bhM9FhKEBRI8hsWFsNNW-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhM9FhKEBRI8hsWFsNNW-3" target="bhM9FhKEBRI8hsWFsNNW-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -177,6 +161,14 @@
         <mxCell id="bhM9FhKEBRI8hsWFsNNW-95" value="&lt;pre style=&quot;box-sizing: border-box; border: none; margin-top: var(--spacing-sm); color: rgb(31, 41, 55); background: var(--code-background-fill); font-family: var(--font-mono); font-size: var(--text-sm); text-align: left; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 2; hyphens: none; overflow: auto; position: relative; box-shadow: none; padding: var(--spacing-lg) var(--spacing-xl); text-shadow: none; border-radius: var(--radius-sm); margin-bottom: 0px !important;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; color: var(--body-text-color); background: none; font-family: var(--font-mono); font-size: var(--text-sm); word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 2; hyphens: none; margin-bottom: 0px !important;&quot; class=&quot;language-mermaid&quot;&gt;Инициирование&lt;/code&gt;&lt;/pre&gt;&lt;pre style=&quot;box-sizing: border-box; border: none; margin-top: var(--spacing-sm); color: rgb(31, 41, 55); background: var(--code-background-fill); font-family: var(--font-mono); font-size: var(--text-sm); text-align: left; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 2; hyphens: none; overflow: auto; position: relative; box-shadow: none; padding: var(--spacing-lg) var(--spacing-xl); text-shadow: none; border-radius: var(--radius-sm); margin-bottom: 0px !important;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; color: var(--body-text-color); background: none; font-family: var(--font-mono); font-size: var(--text-sm); word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 2; hyphens: none; margin-bottom: 0px !important;&quot; class=&quot;language-mermaid&quot;&gt; связи с продавцом&lt;/code&gt;&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bhM9FhKEBRI8hsWFsNNW-94">
           <mxGeometry x="0.9468" y="-1" relative="1" as="geometry">
             <mxPoint x="61" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhM9FhKEBRI8hsWFsNNW-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhM9FhKEBRI8hsWFsNNW-3" target="bhM9FhKEBRI8hsWFsNNW-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhM9FhKEBRI8hsWFsNNW-121" value="&lt;pre style=&quot;font-size: var(--text-sm); box-sizing: border-box; border: none; margin-top: var(--spacing-sm); color: rgb(31, 41, 55); background: var(--code-background-fill); font-family: var(--font-mono); text-align: left; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 2; hyphens: none; overflow: auto; position: relative; box-shadow: none; padding: var(--spacing-lg) var(--spacing-xl); text-shadow: none; border-radius: var(--radius-sm); margin-bottom: 0px !important;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; color: var(--body-text-color); background: none; font-family: var(--font-mono); font-size: var(--text-sm); word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 2; hyphens: none; margin-bottom: 0px !important;&quot; class=&quot;language-mermaid&quot;&gt;Выход из системы&lt;/code&gt;&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bhM9FhKEBRI8hsWFsNNW-120">
+          <mxGeometry x="-0.4109" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bhM9FhKEBRI8hsWFsNNW-3" value="Авторизован" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
@@ -550,6 +542,9 @@
           <mxGeometry x="-0.1826" relative="1" as="geometry">
             <mxPoint x="-10" y="-56" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bhM9FhKEBRI8hsWFsNNW-119" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="135" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
